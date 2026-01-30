@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ableton Live
+Backup/
+*.als.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
